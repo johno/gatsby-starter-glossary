@@ -4573,10 +4573,10 @@ gatsby-telemetry@^1.1.7:
     stack-utils "1.0.2"
     uuid "3.3.2"
 
-gatsby-theme-glossary@^0.0.3:
-  version "0.0.3"
-  resolved "https://registry.yarnpkg.com/gatsby-theme-glossary/-/gatsby-theme-glossary-0.0.3.tgz#fcc53f0e505fdc6d0d86fe2055862c98cc4724ea"
-  integrity sha512-F+6iasaWV9N0JhdZ5cmGkLY4Xav4HMSEgFXrE0w8OvjfM3BvP3L9WOIAhadglN+m0S7onOmc0YLKqdillNjOOg==
+gatsby-theme-glossary@^0.0.4:
+  version "0.0.4"
+  resolved "https://registry.yarnpkg.com/gatsby-theme-glossary/-/gatsby-theme-glossary-0.0.4.tgz#17c90c0b06719ed9197aed15a62ac616c14eac02"
+  integrity sha512-X8agQXMEDuGaHpTKkXhqabPkaTtHkoCXETLaqKfutDw4padmCFJ2/K2kLlujKhet/7vUzE1Vnc0cwiVgH5cYLQ==
   dependencies:
     "@emotion/core" "10.0.14"
     "@mdx-js/mdx" "1.0.25"
